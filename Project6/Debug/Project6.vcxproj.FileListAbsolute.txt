@@ -1,0 +1,3 @@
+D:\project\Project6\Debug\Project6.exe
+D:\project\Project6\Debug\Project6.pdb
+D:\OneDrive\研一课程\计算空气动力学\project\Project6\Debug\Project6.exe

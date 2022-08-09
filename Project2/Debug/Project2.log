@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\project\Project2\main.cpp(32,12): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  Project2.vcxproj -> D:\project\Project2\Debug\Project2.exe

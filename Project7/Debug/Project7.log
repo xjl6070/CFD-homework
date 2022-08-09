@@ -1,0 +1,10 @@
+﻿  TVD.cpp
+D:\OneDrive\研一课程\计算空气动力学\project\Project7\TVD.cpp(143,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\OneDrive\研一课程\计算空气动力学\project\Project7\TVD.cpp(144,32): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\OneDrive\研一课程\计算空气动力学\project\Project7\TVD.cpp(162,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\OneDrive\研一课程\计算空气动力学\project\Project7\TVD.cpp(170,33): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\OneDrive\研一课程\计算空气动力学\project\Project7\TVD.cpp(506,20): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\OneDrive\研一课程\计算空气动力学\project\Project7\TVD.cpp(543,15): warning C4101: “k”: 未引用的局部变量
+D:\OneDrive\研一课程\计算空气动力学\project\Project7\TVD.cpp(543,12): warning C4101: “j”: 未引用的局部变量
+D:\OneDrive\研一课程\计算空气动力学\project\Project7\TVD.cpp(543,9): warning C4101: “i”: 未引用的局部变量
+  Project7.vcxproj -> D:\OneDrive\研一课程\计算空气动力学\project\Project7\Debug\Project7.exe
